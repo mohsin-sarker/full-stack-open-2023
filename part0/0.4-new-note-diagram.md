@@ -1,5 +1,5 @@
 # New Note Diagram
-## participant brower user and server
+## http request and response interacted by client and server
 
 ```mermaid
     sequenceDiagram
